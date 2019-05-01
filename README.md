@@ -27,7 +27,7 @@ There are two types of user in Bookworms, one is ordinary user and the other one
 ## Usage of Bookworms
 
 ### Profile Page
-![](images/Screenshot_1.png)
+![](images/profile-page.png)
 <p align="center">
   <b>Figure 1</b><br>
  </p>
